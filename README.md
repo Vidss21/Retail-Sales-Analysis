@@ -35,9 +35,9 @@ Some regions/products perform better than others
 🚀 How to Run This Project:
 
 Clone the repository:
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Vidss21/Retail-Sales-Analysis.git
 Open Jupyter Notebook:
 jupyter notebook
 Run the notebook file:
-Open your_notebook.ipynb
+Open notebook.ipynb
 Run all cells sequentially
