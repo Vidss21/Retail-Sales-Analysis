@@ -21,9 +21,9 @@ Seaborn
 
 📂 Project Structure:
 
-your_notebook.ipynb → Main analysis notebook
-dataset.csv (if included) → Raw data file
-README.md → Project documentation
+notebook.ipynb
+dataset.csv 
+README.md 
 
 📈 Key Insights:
 
@@ -31,6 +31,7 @@ Certain product categories contribute significantly to overall revenue
 Sales show seasonal/periodic trends
 Profitability varies across different segments
 Some regions/products perform better than others
+
 🚀 How to Run This Project:
 
 Clone the repository:
